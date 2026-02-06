@@ -51,8 +51,8 @@ Loss Function :
 
 Parameters :
 ```
-Total parameters: 
-Trainable parameters: 
+Total parameters: 5,028,840
+Trainable parameters: 5,028,840
 ```
 
 Trained on :
